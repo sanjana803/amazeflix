@@ -1,0 +1,23 @@
+.search {
+  margin: auto;
+  display:block;
+  width:100%;
+  justify-content: center;
+  margin: 15px 0;
+}
+.ss
+{
+  padding-left: 50px;
+  display:block;
+  width:100%;
+}
+.search-a
+{
+  display:inline;
+
+}
+.searchBox
+{
+  margin: auto;
+  width: 90%; 
+}

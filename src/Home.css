@@ -1,0 +1,11 @@
+.contentw
+{
+    margin: auto;
+    width:50%;
+    text-align: center;
+    color: #edf2f4;
+}
+.Nav
+{
+    display:flex;
+}
